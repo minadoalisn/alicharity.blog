@@ -1,0 +1,12 @@
+{
+  "name": "alicharity-blog",
+  "version": "1.0.0",
+  "description": "ALI Charity blog and daily promotion site",
+  "scripts": {
+    "build": "echo 'Static blog - no build required'",
+    "blog:promotion": "node scripts/generate-blog-promotion.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
